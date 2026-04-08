@@ -1,0 +1,18 @@
+{
+  "augments": [
+    {
+      "id": "TFT17_Augment_SpaceCadet",
+      "name": "Uzay Çaylağı",
+      "tier": "Gold",
+      "desc": "Takımın her saniye 2 mana kazanır.",
+      "icon": "https://raw.communitydragon.org/.../icon.png"
+    },
+    {
+      "id": "TFT17_Augment_Titan",
+      "name": "Devasa Cüsse",
+      "tier": "Prismatic",
+      "desc": "Birimlerin %20 daha fazla can kazanır.",
+      "icon": "https://raw.communitydragon.org/.../icon2.png"
+    }
+  ]
+}
