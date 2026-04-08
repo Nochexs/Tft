@@ -5,7 +5,7 @@
       "name": "Aatrox",
       "cost": 5,
       "tier": "S",
-      "frame": "yellow"
+      "frame": "yellow",
       "icon": "https://raw.communitydragon.org/latest/game/assets/ux/tft/championsplashes/patching/tft16_aatrox_square.tft_set16.png",
       },
       {
@@ -13,7 +13,7 @@
       "name": "",
       "cost": 5,
       "tier": "C",
-      "frame": "green"
+      "frame": "green",
       "icon": "https://raw.communitydragon.org/latest/game/assets/ux/tft/championsplashes/patching/tft16_aatrox_square.tft_set16.png",
       },
     
