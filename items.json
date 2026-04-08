@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "id": "Infinity_Edge",
+      "name": "Ebedi Kılıç",
+      "recipe": ["B_F_Sword", "Sparring_Gloves"],
+      "bonus_stats": "+%15 Saldırı Gücü, +%20 Kritik Şans",
+      "desc": "Kritik vuruş hasarını artırır.",
+      "is_radiant": false
+    }
+  ]
+}
